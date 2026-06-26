@@ -1,0 +1,2 @@
+# Data-Science-Professional-Certificate---Final-Capstone-Project
+End-to-end data science capstone project completed as part of the IBM Data Science Professional Certificate analysing SpaceX Falcon 9 launch data using data collection, web scraping, SQL, exploratory data analysis, interactive visualisation (Folium &amp; Plotly Dash), and machine learning classification models to predict first-stage landing success.
